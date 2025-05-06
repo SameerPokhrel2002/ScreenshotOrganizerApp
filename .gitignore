@@ -1,0 +1,10 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+hs_err_pid*
+/bin/
+/build/
+/out/
